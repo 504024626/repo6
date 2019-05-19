@@ -7,4 +7,9 @@ public class gitTest {
 
         System.out.println("时间事解药！");
     }
+
+    public  void  Test(){
+
+        System.out.println("时间咋样！");
+    }
 }
