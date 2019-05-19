@@ -6,6 +6,9 @@ public class gitTest {
         System.out.println("时间事解药！");
         System.out.println("时间事解药！");
         System.out.println("时间事解药！");
+    }
 
+    public  void  test(){
+        System.out.println("完成！");
     }
 }
