@@ -19,7 +19,6 @@ public class gitTest {
 ///已交代吗测试i
     }
     public  void  Test3(){
-
         System.out.println("3333333333333333333333");
         //赵小波
     }
