@@ -12,4 +12,10 @@ public class gitTest {
 
         System.out.println("时间咋样！");
     }
+
+    public  void  Test2(){
+
+        System.out.println("欧克.......！");
+///已交代吗测试i
+    }
 }
