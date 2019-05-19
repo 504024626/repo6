@@ -18,4 +18,9 @@ public class gitTest {
         System.out.println("欧克.......！");
 ///已交代吗测试i
     }
+    public  void  Test3(){
+
+        System.out.println("3333333333333333333333");
+///已交代吗测试i
+    }
 }
